@@ -1,5 +1,7 @@
 # learning
 
+Laravel API Development with Nuxt JS as a frontend framework that helps you build powerful Server Side Rendered Vue js applications with Vuex in a best possbile way.
+
 ## Build Setup
 
 ```bash
